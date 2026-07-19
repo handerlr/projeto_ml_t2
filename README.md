@@ -10,9 +10,12 @@ Este projeto tem como objetivo desenvolver um Pipeline Preditivo para avaliar o 
 4. **Otimização:** Ajuste de hiperparâmetros para evitar overfitting.
 
 ## Tecnologias Utilizadas
-- Python
-- Pandas, Matplotlib, Seaborn
-- Scikit-learn
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- imblearn
 
 ---
 *Desenvolvido por: Anderson*
