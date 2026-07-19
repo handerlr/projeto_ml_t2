@@ -1,0 +1,6 @@
+# Git Ignore
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+.env
+*.pyc
