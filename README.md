@@ -46,13 +46,13 @@ O objetivo deste projeto é minimizar o risco de crédito através de um modelo 
 ### Passo a passo
 1. **Clone este repositório:**
    ```bash
-   git clone [https://github.com/handerlr/projeto_ml_t2.git](https://github.com/handerlr/projeto_ml_t2.git)
+   git clone https://github.com/handerlr/projeto_ml_t2.git
 
 ### Instalação e Execução
 
 1. **Acesse a pasta do projeto:**
     ```bash
-    cd nome-do-repositorio
+    cd projeto_ml_t2
 
 1. **Instale as dependências:**
     ```bash
